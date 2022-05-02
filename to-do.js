@@ -106,7 +106,3 @@ if (savedToDos || savedDones) {
 
 
 toDoList.addEventListener('click', checkDos)
-
-
-
-
