@@ -1,5 +1,12 @@
 # 💎 Vanila JS를 이용한 To Do List
-    Nomad Coder Vanila JS Challenge
+    Nomad Coder Vanila JS Challenge 2Weeks
+
+</br>
+
+<a href="https://hong99cone.github.io/todolist-nomad/" target="_blank">Todo-List site is Here!</a>
+
+</br>
+
 ----
 ## 🔧 기능
 ### 🪄 로그인  : user명을 입력해 todo list 사이트에 진입
